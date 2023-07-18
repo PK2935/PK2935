@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kshirsagar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding">
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/15637256-coding](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk2935&label=Profile%20views&color=0e75b6&style=flat" alt="pk2935" /> </p>
 
 - 🔭 I’m currently exploring **Space 🚀**
