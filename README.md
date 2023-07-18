@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Information Technology 👨🏻‍💻**
 
-- 💬 Ask me about **OOPS**
+- 💬 Ask me about **Cars 🚙**
 
 - 📫 How to reach me **pkshirsagar2935@gmail.com**
 
