@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently exploring **Space 🚀**
 
-- 🌱 I’m currently learning **Information Technology 👨🏻‍💻**
+- 🌱 I’m recently passed out from **VIT Pune in Information Technology 👨🏻‍💻**
+
+- I love traveling 🛣️ and riding 🏍️
 
 - 💬 Ask me about **Cars 🚙**
 
