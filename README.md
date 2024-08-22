@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pkshirsagar2935@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/ucr90a5ir8](https://flowcv.com/resume/ucr90a5ir8)
+- 📄 Here is my Resume [https://flowcv.com/resume/ucr90a5ir8](https://flowcv.com/resume/ucr90a5ir8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
